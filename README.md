@@ -7,6 +7,7 @@ This project predicts whether a credit card application is likely to be **Approv
 The model was trained using historical applicant information and credit records.
 
 ---
+DEMO LINK:https://drive.google.com/file/d/1hibnLJB9lj_Gaj73Znhr90dd1uRwcSsD/view?usp=drive_link
 
 ## 🎯 Objective
 
@@ -175,11 +176,11 @@ Through this project, we learned:
 
 - Team Leader: Hema
 - Team Members:
-  - Member 1
-  - Member 2
-  - Member 3
+  - nerella lakshmi thanmai
+  - harika patti
+  - patan jahur
+  - poornima.p
 
-*(Replace the names with your actual team members.)*
 
 ---
 
