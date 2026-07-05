@@ -27,8 +27,8 @@ The objective of this project is to:
 - NumPy
 - Scikit-learn
 - Flask
-- HTML
 - CSS
+- HTML
 - Joblib
 
 ---
