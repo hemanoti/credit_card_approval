@@ -174,12 +174,12 @@ Through this project, we learned:
 
 ## 👥 Team Members
 
-- Team Leader: Hema
+- Team Leader: Noti Hema
 - Team Members:
-  - nerella lakshmi thanmai
-  - harika patti
-  - patan jahur
-  - poornima.p
+  - Nerella Lakshmi Thanmai
+  - Patti Harika
+  - Patan Mohammad Jaharuddin
+  - Penugulukula Poornima
 
 
 ---
