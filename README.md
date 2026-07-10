@@ -16,7 +16,6 @@ The objective of this project is to:
 - Predict credit card approval status using Machine Learning.
 - Build an interactive web application using Flask.
 - Demonstrate the end-to-end Machine Learning workflow from data preprocessing to deployment.
-
 ---
 
 ## 🛠️ Technologies Used
