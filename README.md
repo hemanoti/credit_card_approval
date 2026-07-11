@@ -4,7 +4,7 @@
 
 This project predicts whether a credit card application is likely to be **Approved** or **Rejected** using Machine Learning. A Flask web application provides a simple interface where users enter applicant details and receive a prediction instantly.
 
-The model was trained using historical applicant information and credit records.
+The Model Was Trained Using Historical Applicant Information And Credit Records.
 
 ---
 DEMO LINK:https://drive.google.com/file/d/1hibnLJB9lj_Gaj73Znhr90dd1uRwcSsD/view?usp=drive_link
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open your browser and visit:
+Open Your Browser And Visit:
 
 ```
 http://127.0.0.1:5000
